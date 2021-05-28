@@ -1,2 +1,3 @@
 #Chatbot
-Creating a simple Python chatbot using natural language processing and deep learning.
+
+Creating a simple Python Chatbot using Natural Language Processing and Deep Learning.
